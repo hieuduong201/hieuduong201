@@ -44,12 +44,15 @@
 
 #### 🔥 Smart Fire Alarm System
 An embedded fire detection and alert system built with real-time sensor monitoring and alarm triggering.
+🔗 [Repo](https://github.com/hieuduong201/Smart_Fire_Alarm_System) 
 
 #### 🚗 Self-Driving Car
 An autonomous vehicle prototype combining embedded control, sensor fusion, and navigation logic.
+🔗 [Repo](https://github.com/hieuduong201/Self_Driving_Car)
 
 #### 🧓 Elderly Monitoring & Fall Detection System (IoT + TinyML)
 A smart monitoring system that applies IoT connectivity and TinyML to detect falls and track the behavior of elderly individuals, aiming to enable faster emergency response.
+🔗 [Repo](https://github.com/hieuduong/elderly-fall-detection)
 
 ---
 
