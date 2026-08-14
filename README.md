@@ -9,7 +9,6 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Studying at **PTIT** (Posts and Telecommunications Institute of Technology)
-- 💼 Currently working as an **Embedded Software Developer** at **Fsoft (FPT Software)**
 - 🔌 Passionate about embedded systems, real-time programming, and IoT
 - 📫 Reach me on GitHub — feel free to check out my projects below!
 
