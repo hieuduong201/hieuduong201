@@ -53,5 +53,3 @@ A smart monitoring system that applies IoT connectivity and TinyML to detect fal
 
 ---
 
-### 📊 GitHub Stats
-
